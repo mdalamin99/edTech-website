@@ -1,4 +1,3 @@
-/* .header-content{
-      margin-bottom:80px;
-      line-height: 15px;
-} */
+.bright{
+      filter: brightness(50%);
+}
